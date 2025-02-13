@@ -1,0 +1,4 @@
+﻿  demo.cpp
+C:\Users\lenovo\source\repos\算法\二叉排序树\二叉排序树\demo.cpp(50,1): warning C4715: “SearchBST”: 不是所有的控件路径都返回值
+C:\Users\lenovo\source\repos\算法\二叉排序树\二叉排序树\demo.cpp(118,1): warning C4715: “DeleteBST”: 不是所有的控件路径都返回值
+  二叉排序树.vcxproj -> C:\Users\lenovo\source\repos\算法\二叉排序树\x64\Debug\二叉排序树.exe
